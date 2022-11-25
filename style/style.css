@@ -80,11 +80,11 @@ section.imagem > p{
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
+    background-position: right center;
 }
 
 section#img01{
     background-image: url('../images/background001.jpg');
-    background-position: right center;
 }
 
 section#img02{
